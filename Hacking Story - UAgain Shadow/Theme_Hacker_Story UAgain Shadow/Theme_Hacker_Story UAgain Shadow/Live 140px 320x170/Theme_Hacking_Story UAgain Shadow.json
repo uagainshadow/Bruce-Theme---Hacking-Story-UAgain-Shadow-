@@ -1,7 +1,7 @@
 {
   "wifi": "wifi.gif",
   "ble": "bluetooth.gif",
-  "ethernet": "inter.gif",
+  "ethernet": "eth.gif",
   "rf": "rf.gif",
   "rfid": "rfid.gif",
   "ir": "ir.gif",
@@ -9,7 +9,7 @@
   "files": "files.gif",
   "gps": "gps.gif",
   "nrf": "nrf.gif",
-  "interpreter": "inter.gif",
+  "inter": "inter.gif",
   "lora": "lora.gif",
   "others": "others.gif",
   "clock": "clock.gif",
