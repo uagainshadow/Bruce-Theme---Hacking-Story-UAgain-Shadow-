@@ -1,7 +1,7 @@
 {
   "wifi": "wifi.gif",
-  "ble": "bluetooth.gif",
-  "ethernet": "eth.gif",
+  "ble": "ble.gif",
+  "eth": "eth.gif",
   "rf": "rf.gif",
   "rfid": "rfid.gif",
   "ir": "ir.gif",
